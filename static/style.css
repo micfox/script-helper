@@ -1,0 +1,10 @@
+
+input{
+//position:absolute;
+outline-style:dotted;
+}
+
+.sentencePanel{
+margin:10px;
+width:500px;
+}
